@@ -1,0 +1,144 @@
+5117911936
+7136607203321344161
+/Users/game56/Follow the player/Assets/PlayerController.cs
+21
+27
+canMove
+0
+0
+5117912152
+7136607203321344161
+/Users/game56/Follow the player/Assets/PlayerController.cs
+21
+50
+runningSpeed
+0
+0
+5117912368
+7136607203321344161
+/Users/game56/Follow the player/Assets/PlayerController.cs
+21
+65
+walkingSpeed
+0
+0
+5117912584
+7136607203321344161
+/Users/game56/Follow the player/Assets/PlayerController.cs
+22
+27
+canMove
+0
+0
+5117912800
+7136607203321344161
+/Users/game56/Follow the player/Assets/PlayerController.cs
+22
+50
+runningSpeed
+0
+0
+5117913016
+7136607203321344161
+/Users/game56/Follow the player/Assets/PlayerController.cs
+22
+65
+walkingSpeed
+0
+0
+5117913232
+7136607203321344161
+/Users/game56/Follow the player/Assets/PlayerController.cs
+23
+36
+moveDirection
+0
+0
+5117913448
+7136607203321344161
+/Users/game56/Follow the player/Assets/PlayerController.cs
+24
+9
+moveDirection
+0
+0
+5117913664
+7136607203321344161
+/Users/game56/Follow the player/Assets/PlayerController.cs
+26
+40
+canMove
+0
+0
+5117913880
+7136607203321344161
+/Users/game56/Follow the player/Assets/PlayerController.cs
+26
+51
+characterController
+0
+0
+5117914096
+7136607203321344161
+/Users/game56/Follow the player/Assets/PlayerController.cs
+28
+13
+moveDirection
+0
+0
+5117914312
+7136607203321344161
+/Users/game56/Follow the player/Assets/PlayerController.cs
+28
+31
+jumpSpeed
+0
+0
+5117914528
+7136607203321344161
+/Users/game56/Follow the player/Assets/PlayerController.cs
+32
+13
+moveDirection
+0
+0
+5117914744
+7136607203321344161
+/Users/game56/Follow the player/Assets/PlayerController.cs
+38
+14
+characterController
+0
+0
+5117914960
+7136607203321344161
+/Users/game56/Follow the player/Assets/PlayerController.cs
+40
+13
+moveDirection
+0
+0
+5117915176
+7136607203321344161
+/Users/game56/Follow the player/Assets/PlayerController.cs
+40
+32
+gravity
+0
+0
+5117915392
+7136607203321344161
+/Users/game56/Follow the player/Assets/PlayerController.cs
+44
+9
+characterController
+0
+0
+5117915608
+7136607203321344161
+/Users/game56/Follow the player/Assets/PlayerController.cs
+44
+34
+moveDirection
+0
+0
